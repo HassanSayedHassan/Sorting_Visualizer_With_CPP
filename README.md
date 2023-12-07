@@ -13,7 +13,7 @@ This C++ project utilizes the SDL2 library to visualize the step-by-step executi
 1. Ensure you have SDL2 installed on your system.
 2. Clone the repository: `git clone https://github.com/HassanSayedHassan/Sorting_Visualizer_With_CPP.git`
 3. Compile and run the project using a C++ compiler.
-
+ 
 ## Controls
 
 - Press `0` to generate a new randomized list.
